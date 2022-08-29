@@ -22,6 +22,8 @@
   }, {
     "name" : "developers",
     "description" : "Operations available to regular developers"
+  }, {
+    "name" : "CAOStart"
   } ],
   "paths" : {
     "/inventory" : {
