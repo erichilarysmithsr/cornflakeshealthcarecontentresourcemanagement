@@ -26,7 +26,7 @@ description: >-
 {% endswagger-description %}
 
 {% swagger-response status="200: OK" description="" %}
-```javascript
+```python
 {
     // Response
 }
