@@ -6,6 +6,36 @@ description: >-
 
 # ♿ CAOS API
 
+{% swagger method="get" path="" baseUrl="https://api.sheety.co/2038ea59d35e3cf806679a2706330dc9/cornFlakeS/caosti" summary="" %}
+{% swagger-description %}
+
+{% endswagger-description %}
+
+{% swagger-response status="200: OK" description="" %}
+```python
+{
+    // Response
+}
+```
+{% endswagger-response %}
+{% endswagger %}
+
+{% swagger method="put" path="" baseUrl="https://api.sheety.co/2038ea59d35e3cf806679a2706330dc9/cornFlakeS/caosti/[Object ID]" summary="" %}
+{% swagger-description %}
+
+{% endswagger-description %}
+
+{% swagger-response status="200: OK" description="" %}
+```javascript
+{
+    // Response
+}
+```
+{% endswagger-response %}
+{% endswagger %}
+
+### CORNFlakeS Google Spreadsheet API
+
 {% embed url="https://docs.google.com/spreadsheets/d/1BWpO5uqrx3R_CcEHmKN07I2_UxFlZlYgxm-Q40gfK00/edit?usp=sharing" %}
 CORNFlakeS Google Sheet APi
 {% endembed %}
